@@ -1,0 +1,15 @@
+1th customer access request at time: 20:58:32
+1th given access at time: 20:58:32
+2th customer access request at time: 20:58:32
+2th given access at time: 20:58:32
+2th left at time: 20:58:33
+1th left at time: 20:58:36
+3th customer access request at time: 20:58:36
+3th given access at time: 20:58:36
+3th left at time: 20:58:39
+4th customer access request at time: 20:58:40
+4th given access at time: 20:58:40
+5th customer access request at time: 20:58:40
+5th given access at time: 20:58:40
+5th left at time: 20:58:41
+4th left at time: 20:58:46
